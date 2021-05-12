@@ -1,1 +1,1 @@
-print('ttttttt')
+print()

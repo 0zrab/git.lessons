@@ -1,1 +1,1 @@
-print('qweqweqweqwe')
+print()
